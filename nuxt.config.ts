@@ -12,5 +12,8 @@ export default defineNuxtConfig({
   },
   css: [
     '@/assets/style/style.scss',
-  ]
+  ],
+  app: {
+    baseURL: '/clerk/'
+  }
 })
