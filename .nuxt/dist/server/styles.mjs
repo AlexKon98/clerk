@@ -1,0 +1,26 @@
+const interopDefault = r => r.default || r || []
+export default {
+  "node_modules/nuxt/dist/app/entry.js": () => import('./_nuxt/entry-styles.CY0rD3xs.mjs').then(interopDefault),
+  "pages/index.vue": () => import('./_nuxt/index-styles.DbpHulPP.mjs').then(interopDefault),
+  "app.vue": () => import('./_nuxt/app-styles.Csg3-CjH.mjs').then(interopDefault),
+  "pages/index.vue?vue&type=style&index=0&scoped=35611e0a&lang.scss": () => import('./_nuxt/index-styles.D1Ij7Z0_.mjs').then(interopDefault),
+  "node_modules/nuxt/dist/app/components/error-404.vue": () => import('./_nuxt/error-404-styles.BcoFjqgl.mjs').then(interopDefault),
+  "node_modules/nuxt/dist/app/components/error-500.vue": () => import('./_nuxt/error-500-styles.DPP87-Dp.mjs').then(interopDefault),
+  "components/TheBreadcrumbs.vue": () => import('./_nuxt/TheBreadcrumbs-styles.DmBu-976.mjs').then(interopDefault),
+  "components/TabsList.vue": () => import('./_nuxt/TabsList-styles.CnMHNI0V.mjs').then(interopDefault),
+  "components/SubscribeForm.vue": () => import('./_nuxt/SubscribeForm-styles.3edEy0ij.mjs').then(interopDefault),
+  "components/SubscribeItem.vue": () => import('./_nuxt/SubscribeItem-styles.wFzHrgij.mjs').then(interopDefault),
+  "app.vue?vue&type=style&index=0&scoped=1302a8b8&lang.scss": () => import('./_nuxt/app-styles.CQM8ZZ1V.mjs').then(interopDefault),
+  "node_modules/nuxt/dist/app/components/error-404.vue?vue&type=style&index=0&scoped=00b6b518&lang.css": () => import('./_nuxt/error-404-styles.DRLC0U6S.mjs').then(interopDefault),
+  "node_modules/nuxt/dist/app/components/error-500.vue?vue&type=style&index=0&scoped=f7ad9679&lang.css": () => import('./_nuxt/error-500-styles.DqmriZ_b.mjs').then(interopDefault),
+  "components/TheFooter.vue": () => import('./_nuxt/TheFooter-styles.CD7WP4nk.mjs').then(interopDefault),
+  "components/TheHeader.vue": () => import('./_nuxt/TheHeader-styles.B3-xiIO3.mjs').then(interopDefault),
+  "components/TabsList.vue?vue&type=style&index=0&scoped=93654112&lang.scss": () => import('./_nuxt/TabsList-styles.i3cb8FaH.mjs').then(interopDefault),
+  "components/SubscribeForm.vue?vue&type=style&index=0&scoped=91e42b81&lang.scss": () => import('./_nuxt/SubscribeForm-styles.Cxya5Qw0.mjs').then(interopDefault),
+  "components/SubscribeItem.vue?vue&type=style&index=0&scoped=1ff48a8b&lang.scss": () => import('./_nuxt/SubscribeItem-styles.CWmB8xiQ.mjs').then(interopDefault),
+  "components/TheFooter.vue?vue&type=style&index=0&scoped=4f133f36&lang.scss": () => import('./_nuxt/TheFooter-styles.DXuv-C2F.mjs').then(interopDefault),
+  "components/TheHeader.vue?vue&type=style&index=0&scoped=5eacb0cf&lang.scss": () => import('./_nuxt/TheHeader-styles.CVxYkhfU.mjs').then(interopDefault),
+  "components/TheBreadcrumbs.vue?vue&type=style&index=0&scoped=3472c48b&lang.scss": () => import('./_nuxt/TheBreadcrumbs-styles.9rn24Ti6.mjs').then(interopDefault),
+  "components/VCheckbox.vue": () => import('./_nuxt/VCheckbox-styles.DsHk4zZY.mjs').then(interopDefault),
+  "components/VCheckbox.vue?vue&type=style&index=0&scoped=d7795f83&lang.scss": () => import('./_nuxt/VCheckbox-styles.Bhu8hoVB.mjs').then(interopDefault)
+}
