@@ -81,8 +81,8 @@ const subscribeList = ref<SubscribeItem[]>([
     heading: 'Перед рассветом',
     text: 'Самые важные новости и события за день. Кратко, по делу, структурировано.',
     image: {
-      desktop: '/images/morning.jpg',
-      mobile: '/images/morning-mobile.jpg'
+      desktop: './images/morning.jpg',
+      mobile: './images/morning-mobile.jpg'
     },
     list: [
       'Новости для бухгалтеров, ИП и директора',
@@ -99,8 +99,8 @@ const subscribeList = ref<SubscribeItem[]>([
     heading: 'После заката',
     text: 'Самая краткая газета о налогах и бухучете в мире — современная рассылка для чтения.',
     image: {
-      desktop: '/images/evening.jpg',
-      mobile: '/images/evening-mobile.jpg'
+      desktop: './images/evening.jpg',
+      mobile: './images/evening-mobile.jpg'
     },
     list: [
       'Анализ, оценка и только самое главное',
@@ -117,8 +117,8 @@ const subscribeList = ref<SubscribeItem[]>([
     heading: 'Раз в две недели',
     text: 'Подборка самых выгодных и полезных спецпредложений от надежных компаний.',
     image: {
-      desktop: '/images/scissors.jpg',
-      mobile: '/images/scissors-mobile.jpg'
+      desktop: './images/scissors.jpg',
+      mobile: './images/scissors-mobile.jpg'
     },
     list: [
       'Акции и скидки от лидеров рынка',
@@ -135,8 +135,8 @@ const subscribeList = ref<SubscribeItem[]>([
     heading: 'По мере появления анонсов',
     text: 'Подборка с анонсами бесплатных вебинаров на самые топовые темы при участии экспертов.',
     image: {
-      desktop: '/images/vebinars.jpg',
-      mobile: '/images/vebinars-mobile.jpg'
+      desktop: './images/vebinars.jpg',
+      mobile: './images/vebinars-mobile.jpg'
     },
     list: [
       'Никогда не пришлем платные вебинары',
